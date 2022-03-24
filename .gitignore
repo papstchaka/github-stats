@@ -134,3 +134,6 @@ dmypy.json
 
 # PyCharm project files
 .idea
+
+# personal ignores
+token.txt
